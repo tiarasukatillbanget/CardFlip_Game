@@ -91,7 +91,7 @@ Section - Score Panel
   border-radius: 50%;
   height: 2em;
   width: 2em;
-  background: #1c9882;
+  background: #5cf;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -144,7 +144,7 @@ Section - Modal
   /* 5% from the top and centered */
   /* margin: 5% auto; */
   margin-left: 8%;
-  border: 0.8em solid #43b538;
+  border: 0.8em solid #5cf;
   padding-right: 2em;
   width: 80%;
 }
